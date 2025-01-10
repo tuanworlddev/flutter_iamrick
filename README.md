@@ -1,2 +1,3 @@
-# flutter_I am rick
+# flutter: I am rick
 
+![app image](assets/images/app.png)
